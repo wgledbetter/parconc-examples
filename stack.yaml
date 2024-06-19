@@ -4,3 +4,7 @@ flags:
   parconc-examples:
     distributed: true
     accelerate: true
+
+packages:
+  - .
+  - kmeans
