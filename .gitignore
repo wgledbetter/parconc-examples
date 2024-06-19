@@ -86,3 +86,5 @@ clusters
 params
 points
 points.bin
+
+*.lock
